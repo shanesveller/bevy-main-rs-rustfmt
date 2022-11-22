@@ -1,0 +1,12 @@
+edition = "2021"
+
+merge_derives = true
+newline_style = "Unix"
+use_field_init_shorthand = true
+
+# Unavailable in stable Rust
+# comment_width = 100
+# group_imports = "StdExternalCrate"
+# imports_granularity = "Crate"
+# normalize_comments = true
+# wrap_comments = true
